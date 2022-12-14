@@ -2,6 +2,8 @@
 - pip install pynput
 - pip install Pillow --upgrade
 - pip install Desktopmagic
+- pip install pyautogui
+- pip install pypiwin32
 
 ## Usage(Background)
 - pythonw main.py
