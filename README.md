@@ -4,7 +4,7 @@
 - pip install Desktopmagic
 
 ## Usage(Background)
-- nohup python main.py &
+- pythonw main.py
 
 ## Description
 Through this program, you can know who touched my computer after work. also what they did.
