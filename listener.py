@@ -12,7 +12,7 @@ def on_click(x, y, button, pressed):
     if not pressed:
         thread = Timer(1, capture)
         thread.start()
-    return False
+        return False
 
 def capture():
     nowTime = datetime.now().strftime("%m%d%H%M%S")
