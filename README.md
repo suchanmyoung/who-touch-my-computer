@@ -1,3 +1,5 @@
+퇴근시간 이후 켜두고간 컴퓨터를 누군가 건드리지 않았을까? --기분탓일 확률이 높다. 
+
 ## Requirements
 - pip install pynput
 - pip install Pillow --upgrade
